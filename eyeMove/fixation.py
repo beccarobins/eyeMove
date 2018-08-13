@@ -1,3 +1,3 @@
 class fixation:
-  def test():
-    return "This is only a test..."
+    def test():
+        print("This is the fixation file...")
