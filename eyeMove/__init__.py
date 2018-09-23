@@ -1,4 +1,4 @@
-#name = "eyeMove"
+name = "eyeMove"
 
 #from fixation import fixation
 #from saccade import saccade
